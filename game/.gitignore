@@ -1,0 +1,4 @@
+*.rpyc
+saves/*
+bytecode.rpyb
+debug_log.txt
